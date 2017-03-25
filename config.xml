@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" ?>
     <widget xmlns   = "http://www.w3.org/ns/widgets"
         xmlns:gap   = "http://phonegap.com/ns/1.0"
-		id          = "myfirstapp"
+		id  = "business-card"
         version     = "1.0.0" >
 
-    <name>App with jQM</name>
-    <description>My first mobile app with jQuery Mobile user interface</description>
-    <author href="http://mypersonalwebsite.com" email="johnbrown@gmail.com">
-		John Brown
+    <name>Business card</name>
+    <description>Business card</description>
+    <author href="http://mypersonalwebsite.com" email="s175603@wizard.uek.krakow.pl">
+		Alex Omely
 	</author>
 	<platform name="android" />
 	
